@@ -9,14 +9,18 @@ public class PlayerMovement : MonoBehaviour
     public float minZ = -14.0f;
     public float maxZ = 14f;
 
+    private PlayerHealth playerHealth;
+
     void Start()
     {
-        
+        playerHealth = GetComponent<PlayerHealth>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (playerHealth != null && playerHealth.isDead) return;
+
         float x = Input.GetAxisRaw("Horizontal");
         float z = Input.GetAxisRaw("Vertical");
 
