@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|d:\\desina_jhc\\desina_2026_jhc\\2026_dessina_vs_jhc\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|d:\\desina_jhc\\desina_2026_jhc\\2026_dessina_vs_jhc\\assets\\scripts\\playerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\assets\\scripts\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|d:\\desina_jhc\\desina_2026_jhc\\2026_dessina_vs_jhc\\assets\\scripts\\xppickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\xppickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\assets\\scripts\\autoshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\autoshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|d:\\desina_jhc\\desina_2026_jhc\\2026_dessina_vs_jhc\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\assets\\scripts\\enemychase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemychase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F702EAF-B57C-8DE5-E51F-87CFC352654B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,67 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EnemySpawner.cs",
-              "DocumentMoniker": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\EnemySpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
-              "ToolTip": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\EnemySpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAArAAAAAAAAAA==",
+              "Title": "PlayerLevel.cs",
+              "DocumentMoniker": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\PlayerLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerLevel.cs",
+              "ToolTip": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\PlayerLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T08:45:59.3Z",
+              "WhenOpened": "2026-04-09T08:42:27.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EnemyDamage.cs",
-              "DocumentMoniker": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\EnemyDamage.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyDamage.cs",
-              "ToolTip": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\EnemyDamage.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyDamage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Title": "xpPickUp.cs",
+              "DocumentMoniker": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\xpPickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\xpPickUp.cs",
+              "ToolTip": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\xpPickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\xpPickUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T08:12:07.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
-              "ToolTip": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T08:07:23.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T07:43:53.246Z",
+              "WhenOpened": "2026-04-09T08:39:04.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EnemyChase.cs",
-              "DocumentMoniker": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\EnemyChase.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyChase.cs",
-              "ToolTip": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\EnemyChase.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyChase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T07:36:27.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T08:02:29.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoShooter.cs",
+              "DocumentMoniker": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\AutoShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AutoShooter.cs",
+              "ToolTip": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\AutoShooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AutoShooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T07:53:52.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "D:\\Desina_JHC\\Desina_2026_JHC\\2026_Dessina_VS_JHC\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T08:07:23.678Z"
             }
           ]
         }
